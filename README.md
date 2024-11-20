@@ -10,12 +10,11 @@ Audio Player
   </p>
 </div>
 <div align="center">
-  <img src="https://github.com/harshdusane2103/song_player/blob/master/1.png", width=21%,height=35%>
-  <img src="https://github.com/harshdusane2103/song_player/blob/master/2.png", width=21%,height=35%>
-   <img src="https://github.com/harshdusane2103/song_player/blob/master/3.png", width=21%,height=35%>
-  <img src="https://github.com/harshdusane2103/song_player/blob/master/4.png", width=21%,height=35%>
+  <img src="https://github.com/user-attachments/files/17828891/Purple.Pink.Gradient.Mobile.Application.Presentation.pdf">
   
   
+
+
   
 </div>
 
