@@ -6,9 +6,9 @@ Audio Player
 <div align="center">
   <h3 align="left">Descripation :</h3>
   <p>
-ChatGPT
-🎵 Audio Player API Features Overview
-🔧 Core Functionality:
+
+_🎵 Audio Player API Features Overview
+_🔧 Core Functionality:
 ▶️ Playback Controls: Play, pause, stop, and seek within audio tracks.
 🔊 Volume Management: Adjust volume levels or mute audio.
 📂 Format Support: Compatible with formats like MP3, WAV, and AAC.
