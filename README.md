@@ -6,7 +6,7 @@ Audio Player
 <div align="center">
   <h3 align="left">Descripation :</h3>
   <p>
-
+    
 _🎵 Audio Player API Features Overview
 _🔧 Core Functionality:
 ▶️ Playback Controls: Play, pause, stop, and seek within audio tracks.
@@ -27,6 +27,10 @@ _🔧 Core Functionality:
 🌟 Enhanced User Experience: Smooth, interactive audio controls.
 ⏱️ Developer Efficiency: Simplifies integrating audio functionality.
 🎧 Perfect for streaming apps, educational tools, and interactive platforms!
+
+
+
+
 
 
 
