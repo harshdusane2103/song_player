@@ -10,8 +10,9 @@ Audio Player
   </p>
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/files/17828891/Purple.Pink.Gradient.Mobile.Application.Presentation.pdf">
-  
+  <img src="https://github.com/user-attachments/assets/a86aaa22-1ce3-4d80-82b4-f1569beab3b4">
+
+
   
 
 
@@ -19,7 +20,7 @@ Audio Player
 </div>
 
 <div align="center"> 
-<video src="https://github.com/user-attachments/assets/b6f89e45-5792-45aa-881e-45045e6a8dd4">
+<video src="https://github.com/user-attachments/assets/5d1a6191-11d2-456c-89de-20a3b6a5ec3e">
 
 
 
