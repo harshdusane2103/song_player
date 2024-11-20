@@ -2,7 +2,7 @@
 Audio Player
 </h1>
 
-<div align="center">
+<div align="left">
   <h3 align="left">Description :</h3>
   <p>
     <ul>
